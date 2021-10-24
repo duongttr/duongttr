@@ -1,4 +1,4 @@
-<p align="center"><h2>Hello there. Welcome to my profile</h2> <img src="./cool.gif" width="35px"></p>
+<p align="center"><h2>Hello there. Welcome to my profile <img src="./cool.gif" width="35px"></h2> </p>
 <p align="center">I'm currently undergraduate from FPT University HCMC. I love learning AI and making mobile apps.</p>
 <hr/>
 
