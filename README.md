@@ -7,4 +7,5 @@ I'm currently an undergraduate from <code>FPT University HCMC</code>. I love lea
 ### My Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=duongttr&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongttr&layout=compact)
 
+![Stickman's punishment](./stickman.gif)
 ./.
