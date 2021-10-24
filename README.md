@@ -5,6 +5,6 @@
 I'm currently an undergraduate from <code>FPT University HCMC</code>. I love learning AI and making mobile apps.
 
 ### My Stats
-<img href="https://github-readme-stats.vercel.app/api?username=duongttr" align="center"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=duongttr)
 
 ./.
