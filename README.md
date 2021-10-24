@@ -11,6 +11,6 @@ I'm currently an undergraduate from <code>FPT University HCMC</code>. I love lea
 
 ![Stickman's punishment](./stickman.gif)
 
-*Stickman will only punish when the night falls.*
+*It is stormy outside, and the stickman will return when `night falls` and punish those who do not know their strength*
 
 ./.
