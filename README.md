@@ -4,6 +4,8 @@
 
 I'm currently an undergraduate from <code>FPT University HCMC</code>. I love learning AI and making mobile apps.
 
+You can check my portfolio [***right here!***](https://duongttr.github.io/)
+
 ### My Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=duongttr&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongttr&layout=compact)
 
